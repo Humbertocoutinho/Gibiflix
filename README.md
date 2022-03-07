@@ -22,4 +22,3 @@ deslizante de carrossel responsivo.
 --------------LEMBRETE-----------
 
 	OS LINKS LEVARÃO O USUARIO AO SITE TAVERNA QUADRINHOS
-apenas como exemplo. 
